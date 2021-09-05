@@ -6,9 +6,9 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: +44 123 456 789
     - Icon: fas fa-envelope
-      Info: alice@abwriting.com
+      Info: <a href="mailto:alice@abwriting.net">alice@abwriting.net</a>
     - Icon: fas fa-globe
-      Info: www.abwriting.com
+      Info: <a href="www.abwriting.net">www.abwriting.net</a>
     - Icon: fas fa-map-marker-alt
       Info: Portugal
 
