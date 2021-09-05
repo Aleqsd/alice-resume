@@ -9,8 +9,8 @@ BasicInfo:
       Info: <a href="mailto:alice@abwriting.net">alice@abwriting.net</a>
     - Icon: fas fa-globe
       Info: <a href="www.abwriting.net">www.abwriting.net</a>
-    - Icon: fas fa-map-marker-alt
-      Info: Portugal
+    - Icon: fas fa-file-pdf
+      Info: <a href="www.abwriting.net">Download PDF</a>
 
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
