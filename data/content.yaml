@@ -8,7 +8,7 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: <a href="mailto:alice@abwriting.net">alice@abwriting.net</a>
     - Icon: fas fa-globe
-      Info: <a href="www.abwriting.net">www.abwriting.net</a>
+      Info: <a href="https://www.abwriting.net">www.abwriting.net</a>
     - Icon: fas fa-file-pdf
       Info: <a href="https://drive.google.com/uc?export=download&id=1pxdGJbKDm8SIKoLOmlqwRmnaJpLy0qHI">Download PDF</a>
 
